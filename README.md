@@ -1,1 +1,0 @@
-# naturemed.github.io
