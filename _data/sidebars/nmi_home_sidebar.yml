@@ -1,0 +1,24 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: EPAs
+    output: web
+    folderitems:
+    - title: Well-Adult Female Examination
+      url: /epa001_landing_page.html
+      output: web
+    - title: Well-Adult Male Examination
+      url: /epa002_landing_page.html
+      output: web
+    - title: Managing the patient who needs contraception counseling and options
+      url: /epa003_landing_page.html
+      output: web
+    - title: Chronic pain (nonspecific)
+      url: /epa004_landing_page.html
+      output: web
+
+# Copyright 2021 Google LLC
