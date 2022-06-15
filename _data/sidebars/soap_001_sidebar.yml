@@ -25,7 +25,7 @@ entries:
       output: web, pdf
 
     - title: Plan
-      url: /epa{{ page.epa_number }}_plan.html
+      url: /epa001_plan.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
