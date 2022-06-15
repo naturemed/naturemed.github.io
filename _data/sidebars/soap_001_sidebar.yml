@@ -9,19 +9,19 @@ entries:
     output: web, pdf
     folderitems:
     - title: EPA Home
-      url: epa{{ page.epa_number }}_landing_page.html
+      url: epa001_landing_page.html
       output: web
 
     - title: Subjective
-      url: /epa{{ page.epa_number }}_subjective.html
+      url: /epa001_subjective.html
       output: web, pdf
 
     - title: Objective
-      url: /epa{{ page.epa_number }}_objective.html
+      url: /epa001_objective.html
       output: web, pdf
 
     - title: Assessment
-      url: /epa{{ page.epa_number }}_assessment.html
+      url: /epa001_assessment.html
       output: web, pdf
 
     - title: Plan
