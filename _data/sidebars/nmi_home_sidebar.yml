@@ -9,16 +9,16 @@ entries:
     output: web
     folderitems:
     - title: Well-Adult Female Examination
-      url: /epa001_landing_page.html
+      url: /epa_landing_page_1.html
       output: web
     - title: Well-Adult Male Examination
-      url: /epa002_landing_page.html
+      url: /epa_landing_page_2.html
       output: web
     - title: Managing the patient who needs contraception counseling and options
-      url: /epa003_landing_page.html
+      url: /epa_landing_page_3.html
       output: web
     - title: Chronic pain (nonspecific)
-      url: /epa004_landing_page.html
+      url: /epa_landing_page_4.html
       output: web
 
 # Copyright 2021 Google LLC
