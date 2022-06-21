@@ -1,7 +1,7 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 entries:
 - title: Sidebar
-  product: Well-Adult Female Examination
+  product: {{ page.title }}
   version: #optional, shows on same line after the EPA name from previous line 
   folders:
 
@@ -9,23 +9,23 @@ entries:
     output: web, pdf
     folderitems:
     - title: EPA Home
-      url: epa{{ epa_id }}_landing_page.html
+      url: epa_landing_page.html
       output: web
 
     - title: Subjective
-      url: /epa{{ epa_id }}_subjective.html
+      url: /epa_subjective.html
       output: web, pdf
 
     - title: Objective
-      url: /epa{{ epa_id }}_objective.html
+      url: /epa_objective.html
       output: web, pdf
 
     - title: Assessment
-      url: /epa{{ epa_id }}_assessment.html
+      url: /epa_assessment.html
       output: web, pdf
 
     - title: Plan
-      url: /epa{{ epa_id }}_plan.html
+      url: /epa_plan.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
