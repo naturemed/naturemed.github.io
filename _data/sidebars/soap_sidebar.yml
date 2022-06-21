@@ -9,23 +9,23 @@ entries:
     output: web, pdf
     folderitems:
     - title: EPA Home
-      url: epa001_landing_page.html
+      url: epa{{ epa_id }}_landing_page.html
       output: web
 
     - title: Subjective
-      url: /epa001_subjective.html
+      url: /epa{{ epa_id }}_subjective.html
       output: web, pdf
 
     - title: Objective
-      url: /epa001_objective.html
+      url: /epa{{ epa_id }}_objective.html
       output: web, pdf
 
     - title: Assessment
-      url: /epa001_assessment.html
+      url: /epa{{ epa_id }}_assessment.html
       output: web, pdf
 
     - title: Plan
-      url: /epa001_plan.html
+      url: /epa{{ epa_id }}_plan.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
