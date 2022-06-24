@@ -11,10 +11,6 @@ entries:
     - title: EPA Home
       url: epa_landing_page
       output: web
-      subfolderitems:
-      - title: test
-        url: test_url
-        output: web
 
     - title: Subjective
       url: /epa_subjective
