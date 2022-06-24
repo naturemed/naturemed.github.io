@@ -10,12 +10,11 @@ permalink: epa_subjective_0.html
 
 ## Identify Patient attributes
 
-- Attributes
-	- <div class="panel-group" id="accordion">
+- <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <div class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Read More</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Attributes</a>
                             </div>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
