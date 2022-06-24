@@ -11,12 +11,12 @@ permalink: epa_subjective_0.html
 ## Identify Patient attributes
 
 - Attributes
-<div class="panel-group" id="accordion">
+	- <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <h4 class="panel-title">
+                            <div class="panel-title">
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Read More</a>
-                            </h4>
+                            </div>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
@@ -24,7 +24,7 @@ permalink: epa_subjective_0.html
                             </div>
                         </div>
     				 </div>
-</div>
+      </div>
 - Goals
 - Vital Force
 
