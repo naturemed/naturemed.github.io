@@ -6,24 +6,19 @@ keywords: templates
 summary: "This shows the basic structure of an EPA."
 sidebar: soap_sidebar
 permalink: epa_subjective_0.html
+attribute-tooltip : |
+  Guides screening examinations needed.
+
+  Patients may have different terms for their genitalia - ask!
+
+  Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.
+
+  A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.
+
 ---
 
 ## Identify Patient attributes
-
-- <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <div class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Attributes</a>
-                            </div>
-                        </div>
-                        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
-                            <div class="panel-body">
-                                Guides screening examinations needed. <br/><br/> Patients may have different terms for their genitalia - ask!<br/><br/>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br/><br/>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.
-                            </div>
-                        </div>
-    				 </div>
-      </div>
+- <a href="#" data-toggle="tooltip" data-original-title="{{page.attribute-tooltip}}">Attributes</a> 
 - Goals
 - Vital Force
 
