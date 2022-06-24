@@ -10,8 +10,13 @@ permalink: epa_subjective_0.html
 
 ## Identify Patient attributes
 
-ipsem lorem 
+- Attributes
+- Goals
+- Vital Force
 
 ## Evaluate healing power and processes (pathobiography)
 
-sample text
+- HPI
+- PMHx
+- SHx
+- FHx
