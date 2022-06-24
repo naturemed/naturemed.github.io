@@ -5,6 +5,19 @@ entries:
   version: #optional, shows on same line after the EPA name from previous line 
   folders:
 
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+      
   - title: SOAP 
     output: web, pdf
     folderitems:
