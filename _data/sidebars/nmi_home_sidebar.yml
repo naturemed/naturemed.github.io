@@ -8,6 +8,9 @@ entries:
   - title: EPAs
     output: web
     folderitems:
+    - title: EPA Template
+      url: /epa_landing_page_0
+      output: web
     - title: Well-Adult Female Examination
       url: /epa_landing_page_1
       output: web
