@@ -30,7 +30,7 @@
 
 
           {% else %}
-          <li><a title="{{folderitem.title}}" href="{{folderitem.url | remove: "/"}}_{{page.epa_id}}">{{folderitem.title}}</a></li>
+          <li><a title="{{folderitem.title}}" href="{{folderitem.url | remove: "/"}}_{{page.epa_id}}.html">{{folderitem.title}}</a></li>
           
           {% endif %}
           {% for subfolders in folderitem.subfolders %}
