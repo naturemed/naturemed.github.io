@@ -19,14 +19,7 @@ permalink: epa_subjective_0.html
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                Guides screening examinations needed.
-
-Patients may have different terms for their genitalia - ask!
-
-Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.
-
-A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.
-
+                                Guides screening examinations needed. <br/> Patients may have different terms for their genitalia - ask!<br/>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br/>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.
                             </div>
                         </div>
                     </div>
