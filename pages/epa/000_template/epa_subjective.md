@@ -20,3 +20,15 @@ permalink: epa_subjective_0.html
 - PMHx
 - SHx
 - FHx
+- Other health-disturbing factors
+	- Cultural
+	- Environmental
+	- Exercise/movement
+	- Hygienic
+	- Inborn
+	- Nutrition & hydration
+	- Relationship quality
+	- Sleep and relaxation
+	- Socioeconomic
+	- Spirituality / connection to purpose
+	- Stress management
