@@ -19,7 +19,7 @@ attribute-tooltip : |
 
 ## Identify Patient attributes
 - <div>
-  <a href="#" data-toggle="tooltip" data-original-title="{{page.attribute-tooltip}}">Attributes</a>
+  <a href="#" data-toggle="tooltip" data-original-title='{{page.attribute-tooltip}}'>Attributes</a>
   </div>
 - Goals
 - Vital Force
