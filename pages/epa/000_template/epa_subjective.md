@@ -18,6 +18,8 @@ pathobiology-tooltip : >
   Pathobiography: an assessment of the intensity of illness vs. the healing process. This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.
   <br>
   The physician listens intentionally and re-tells patient's story in a way that facilitates the therapeutic alliance. Approach is efficient, professional, and compassionate.
+vital-tooltip : >
+  Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." (AANP, 2022, https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22)
 ---
 
 ## Identify Patient attributes
@@ -27,6 +29,9 @@ pathobiology-tooltip : >
   {{site.data.alerts.end}}
 - Goals
 - Vital Force
+  {{site.data.alerts.note}}
+  {{page.vital-tooltip}}
+  {{site.data.alerts.end}}
 
 ## Evaluate healing power and processes (pathobiography)
    {{site.data.alerts.important}}
