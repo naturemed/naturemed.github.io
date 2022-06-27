@@ -19,7 +19,7 @@ pathobiology-tooltip : >
   <br>
   The physician listens intentionally and re-tells patient's story in a way that facilitates the therapeutic alliance. Approach is efficient, professional, and compassionate.
 vital-tooltip : >
-  Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." ([AANP, 2022] (https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))
+  Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022] (https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22)
 ---
 
 ## Identify Patient attributes
