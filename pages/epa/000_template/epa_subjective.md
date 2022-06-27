@@ -6,6 +6,8 @@ keywords: templates
 summary: "This shows the basic structure of an EPA."
 sidebar: soap_sidebar
 permalink: epa_subjective_0.html
+
+#tooltips are for callouts in the page. They do not work if markdown is required. in that case they must be added inline. See Vital Force below for an example
 attribute-tooltip : >
   <p>Guides screening examinations needed.
   <br>
@@ -20,8 +22,6 @@ pathobiology-tooltip : >
   <br>
   The physician listens intentionally and re-tells patient's story in a way that facilitates the therapeutic alliance. Approach is efficient, professional, and compassionate.
   </p>
-vital-tooltip : >
-  <p>Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." (AANP, 2022, <https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22>)</p>
 
 ---
 
