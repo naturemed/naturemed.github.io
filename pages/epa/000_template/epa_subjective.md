@@ -19,7 +19,9 @@ attribute-tooltip : |
 
 ## Identify Patient attributes
 - Attributes
-  - {% include tip.html content='{{ page.attribute-tooltip }}' %}
+  - {{site.data.alerts.tip}}
+    {{page.attribute-tooltip}}
+    {{site.data.alerts.end}}
 - Goals
 - Vital Force
 
