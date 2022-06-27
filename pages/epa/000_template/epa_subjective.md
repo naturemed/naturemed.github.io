@@ -29,9 +29,9 @@ pathobiology-tooltip : >
 - Vital Force
 
 ## Evaluate healing power and processes (pathobiography)
-    {{site.data.alerts.important}}
-    {{page.pathobiology-tooltip}}
-    {{site.data.alerts.end}}
+   {{site.data.alerts.important}}
+   {{page.pathobiology-tooltip}}
+   {{site.data.alerts.end}}
 - HPI
 - PMHx
 - SHx
