@@ -19,7 +19,7 @@ attribute-tooltip : |
 
 ## Identify Patient attributes
 - Attributes
-  - {{site.data.alerts.tip}}
+    {{site.data.alerts.tip}}
     {{page.attribute-tooltip}}
     {{site.data.alerts.end}}
 - Goals
