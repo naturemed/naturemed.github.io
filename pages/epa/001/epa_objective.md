@@ -13,4 +13,4 @@ permalink: epa_objective_1.html
 - Comprehensive blood work, such as CMP, CBC, iron studies, thyroid studies, lipids
   - Under 30 yo every 3-5 years
   - 30-50 yo 2-3 years
-  - >50 yo every 1 year, specialty labs: Hep C, CV markers, CA-125
+  - \>50 yo every 1 year, specialty labs: Hep C, CV markers, CA-125
