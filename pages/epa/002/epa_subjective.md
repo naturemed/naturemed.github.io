@@ -1,11 +1,11 @@
 ---
-epa_id: 1
-folder: epa/001
-title: Well-Adult Female Examination (over 16 years old)
+epa_id: 2
+folder: epa/002
+title: Well-Adult Male Examination (over 16 years old)
 keywords: 
 summary: 
 sidebar: soap_sidebar
-permalink: epa_subjective_1.html
+permalink: epa_subjective_2.html
 ---
 
 ## Identify Patient attributes
