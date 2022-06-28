@@ -26,7 +26,7 @@ pathobiology-tooltip : >
 ---
 
 ## Identify Patient attributes
-- Attributes
+- Identification
   - Age
     - Guides screening examinations needed
   - Gender identity 
@@ -47,15 +47,6 @@ pathobiology-tooltip : >
   - Any heart work-ups in the past
 - Meds/supplements
   - Full review of all medications and supplements pt is currently taking
-
-- Goals
-- Vital Force
-  {% include note.html content= '<br>Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
-
-## Evaluate healing power and processes (pathobiography)
-   {{site.data.alerts.important}}
-   {{page.pathobiology-tooltip}}
-   {{site.data.alerts.end}}
 - HPI: not needed because it’s a wellness exam
 - PMHx
   - Reproductive and Sexual Hx
@@ -101,15 +92,6 @@ pathobiology-tooltip : >
     - Recreational drugs
 - FHx
   - Full review/assessment of family history if not recently assessed
-- Other health-disturbing factors
-	- Cultural
-	- Environmental
-	- Exercise/movement
-	- Hygienic
-	- Inborn
-	- Nutrition & hydration
-	- Relationship quality
-	- Sleep and relaxation
-	- Socioeconomic
-	- Spirituality / connection to purpose
-	- Stress management
+- Full head-to-toe ROS
+  - Emphasize LMP, any current gynecological concerns - if abnormal, ask pertinent follow-up questions
+
