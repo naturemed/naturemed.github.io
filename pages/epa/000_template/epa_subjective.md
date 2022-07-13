@@ -25,7 +25,7 @@ pathobiology-tooltip : >
 - Gender identity
   - Transgender, non-binary, genderqueer, and gender non-conforming 
   - Trans 101
-    {% include rationale.html content= 'Patients may have different terms for their genitalia - ask!<br>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.' %}
+  {% include rationale.html content= 'Patients may have different terms for their genitalia - ask!<br>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.' %}
 ### Outline patient goals collaboratively
 - Vital Force
   {% include note.html content= '<br>Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
