@@ -5,7 +5,7 @@ title: Well-Adult Female Examination (over 16 years old)
 keywords: 
 summary: 
 sidebar: soap_sidebar
-permalink: epa_subjective_1_.html
+permalink: epa_subjective_1.html
 ---
 
 ## Identify Patient attributes
