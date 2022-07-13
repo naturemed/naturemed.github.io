@@ -9,8 +9,15 @@ permalink: epa_plan_1.html
 ---
 
 ## Provide NM Treatment Protocol & Measurable Outcomes
-### Determine patient ‘s treatment goals & prioritize collaboratively
- - Patient education
+### Explore patient‘s treatment goals & prioritize collaboratively
+{% include note.html content='To optimize adherence and nourish the therapeutic alliance.' %}
+
+Patient Education:
+- Breast imaging, based on PE and age
+- Sexual health
+  - Birth control
+  - Safe & pleasurable sex
+  - General health habits
 
 ### Expected Competencies
 - Professional, clear, and empathic communication style
@@ -19,13 +26,16 @@ permalink: epa_plan_1.html
 
 
 ## Determine NM Therapeutic Order<sup>TM</sup> level & clinical priorities
-{% include note.html content="[Naturopathic Therapeutic Order (TM): a structured algorithm for resolving a patient's symptoms and addressing the underlying cause(s), while using the least invasive approach possible.](https://fnminstitute.org/therapeutic-order/)" %}
+{% include important.html content="[Naturopathic Therapeutic Order (TM): a structured algorithm for resolving a patient's symptoms and addressing the underlying cause(s), while using the least invasive approach possible.](https://fnminstitute.org/therapeutic-order/)" %}
 - Foundations for health
-- Stimulate self-healing
-- Support & restore weakened systems
-- Address physical alignment
-- Natural Sx relief
-- Synthetic Sx relief
+  - Nutrition & hydration
+  - Exercise
+  - Environment
+  - Sleep
+  - Stress management
+  - Energetics
+
+
 
 ## Referrals, if appropriate
 - Ongoing monitoring, if appropriate
