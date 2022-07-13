@@ -26,7 +26,7 @@ Patient Education:
 
 
 ## Determine NM Therapeutic Order<sup>TM</sup> level & clinical priorities
-{% include important.html content="[Naturopathic Therapeutic Order (TM): a structured algorithm for resolving a patient's symptoms and addressing the underlying cause(s), while using the least invasive approach possible.](https://fnminstitute.org/therapeutic-order/)" %}
+{% include important.html content="[Naturopathic Therapeutic Order<sup>TM</sup>: a structured algorithm for resolving a patient's symptoms and addressing the underlying cause(s), while using the least invasive approach possible.](https://fnminstitute.org/therapeutic-order/)" %}
 - Foundations for health
   - Nutrition & hydration
   - Exercise
