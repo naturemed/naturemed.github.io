@@ -25,7 +25,7 @@ pathobiology-tooltip : >
   - Transgender, non-binary, genderqueer, and gender non-conforming 
   - Trans 101
   {% include rationale.html content= 'Patients may have different terms for their genitalia - ask!<br>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.' %}
-- Exhibits Competencies
+#### Exhibits Competencies
   - Communication skills
   - Professionalism 
   - Collaboration (patient)
