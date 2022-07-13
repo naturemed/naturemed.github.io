@@ -44,7 +44,7 @@ The physician listens intentionally and re-tells patient's story in a way that f
 ### PMHx
 
 ### SHx
- {% include note.html content= 'Includes:<br><ul><li>Spirituality / connection to purpose</li><li>Exercise /movement</li><li>Quality of relationships</li><li>Sleep and relaxation</li><li>Stress management</li><li>Nutrition</li></ul>' %}
+ {% include note.html content= 'Includes:<br>* Spirituality / connection to purpose<br> * Exercise /movement<br> * Quality of relationships<br> * Sleep and relaxation<br> * Stress management<br> * Nutrition' %}
 
 
 ### FHx
