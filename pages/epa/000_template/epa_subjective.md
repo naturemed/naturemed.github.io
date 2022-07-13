@@ -9,9 +9,7 @@ permalink: epa_subjective_0.html
 
 #tooltips are for callouts in the page. They do not work if markdown is required. in that case they must be added inline. See Vital Force below for an example
 attribute-tooltip : >
-  <p>Guides screening examinations needed.
-  <br>
-  Patients may have different terms for their genitalia - ask!
+  <p>Patients may have different terms for their genitalia - ask!
   <br>
   Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.
   <br>
@@ -27,11 +25,14 @@ pathobiology-tooltip : >
 
 ## Identify Patient attributes
 ### Enquire about key patient identifiers & attribute
-- Attributes
-  {{site.data.alerts.tip}}
+- Age
+    {% include rationale.html content= 'Guides screening examinations needed' %}
+
+- Gender identity
+  {{site.data.alerts.rationale}}
   {{page.attribute-tooltip}}
   {{site.data.alerts.end}}
-- Goals
+### Outline patient goals collaboratively
 - Vital Force
   {% include note.html content= '<br>Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
 
