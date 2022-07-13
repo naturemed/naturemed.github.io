@@ -66,7 +66,6 @@ Not required for a wellness exam
     - Treatments pursued for positive Paps (LEEP, etc.)
 
 - Sexual Hx
-  {% include rationale.html content= 'Including:<br>- By choice or by circumstance<br>- Libido and achievement of orgasm<br>- Intimacy' %}
   - Sexuality
   - Current sexual activity
   - Sex of partner/s
@@ -76,8 +75,12 @@ Not required for a wellness exam
   - Sex of partner/s
   - Age of first sexual activity, age of first partner
   - Hx unprotected sex
+    {% include rationale.html content= 'By choice or by circumstance' %}
   - Hx sexual difficulties
+    {% include rationale.html content= 'Libido and achievement of orgasm' %}
   - Hx sexual, physical, emotional abuse
+    {% include rationale.html content= 'Intimacy' %}
+
 
 
 
