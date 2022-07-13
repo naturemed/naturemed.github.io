@@ -36,7 +36,7 @@ permalink: epa_subjective_0.html
 ### HPI
 
 #### Expected Competencies
-- The physician listens intentionally and re-tells patient's story in a way that facilitates the therapeutic alliance. Approach to patient is:
+The physician listens intentionally and re-tells patient's story in a way that facilitates the therapeutic alliance. Approach to patient is:
   - efficient
   - professional
   - compassionate
@@ -44,12 +44,8 @@ permalink: epa_subjective_0.html
 ### PMHx
 
 ### SHx
-- Spirituality / connection to purpose
-- Exercise /movement
-- Quality of relationships
-- Sleep and relaxation
-- Stress management
-- Nutrition
+ {% include note.html content= 'Includes:<br><ul><li>Spirituality / connection to purpose</li><li>Exercise /movement</li><li>Quality of relationships</li><li>Sleep and relaxation</li><li>Stress management</li><li>Nutrition</li></ul>' %}
+
 
 ### FHx
 
