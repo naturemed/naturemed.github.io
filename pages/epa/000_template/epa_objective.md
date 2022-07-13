@@ -27,7 +27,7 @@ permalink: epa_objective_0.html
 ### Laboratory & imaging
 - Determine age-appropriate screening exams, lab work, and imaging needed to confirm DDx
 
-#### Expected Competencies
+### Expected Competencies
 - Understands when imaging and labs are/are not appropriate to support differential dx and affect treatment plan 
 - Understands when imaging is /is not appropriate 
 - Avoids unnecessary tests and consequent financial burden on patient 
