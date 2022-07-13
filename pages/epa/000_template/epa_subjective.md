@@ -8,13 +8,7 @@ sidebar: soap_sidebar
 permalink: epa_subjective_0.html
 
 #tooltips are for callouts in the page. They do not work if markdown is required. in that case they must be added inline. See Vital Force below for an example
-attribute-tooltip : >
-  <p>Patients may have different terms for their genitalia - ask!
-  <br>
-  Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.
-  <br>
-  A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.
-  </p>
+  
 pathobiology-tooltip : >
   <p>Pathobiography: an assessment of the intensity of illness vs. the healing process. This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.
   <br>
@@ -29,9 +23,9 @@ pathobiology-tooltip : >
     {% include rationale.html content= 'Guides screening examinations needed' %}
 
 - Gender identity
-  {{site.data.alerts.rationale}}
-  {{page.attribute-tooltip}}
-  {{site.data.alerts.end}}
+  -- Transgender, non-binary, genderqueer, and gender non-conforming 
+  -- Trans 101
+  {% include rationale.html content= 'Patients may have different terms for their genitalia - ask!<br>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.' %}
 ### Outline patient goals collaboratively
 - Vital Force
   {% include note.html content= '<br>Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
