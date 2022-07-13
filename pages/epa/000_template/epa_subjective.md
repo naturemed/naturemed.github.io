@@ -32,8 +32,8 @@ pathobiology-tooltip : >
   - Collaboration (interprofessional)
 
 ### Outline patient goals collaboratively
-- Vital Force
-  {% include note.html content= '<br>Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
+### Assess vital force, direction, pattern
+    {% include note.html content= '<br>Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
 
 ## Evaluate healing power and processes (pathobiography)
    {{site.data.alerts.important}}
