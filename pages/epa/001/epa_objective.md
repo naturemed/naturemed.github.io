@@ -62,8 +62,6 @@ NA
     - Thyroid studies
     - Lipids
 
-
-
 #### Expected Competencies
 - Understands when imaging and labs are/are not appropriate to support differential dx and affect treatment plan 
 - Understands when imaging is /is not appropriate 
