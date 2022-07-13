@@ -20,12 +20,17 @@ pathobiology-tooltip : >
 ## Identify Patient attributes
 ### Enquire about key patient identifiers & attribute
 - Age
-    {% include rationale.html content= 'Guides screening examinations needed' %}
-
+  {% include rationale.html content= 'Guides screening examinations needed' %}
 - Gender identity
   - Transgender, non-binary, genderqueer, and gender non-conforming 
   - Trans 101
   {% include rationale.html content= 'Patients may have different terms for their genitalia - ask!<br>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.' %}
+- Exhibits Competencies
+  - Communication skills
+  - Professionalism 
+  - Collaboration (patient)
+  - Collaboration (interprofessional)
+
 ### Outline patient goals collaboratively
 - Vital Force
   {% include note.html content= '<br>Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
