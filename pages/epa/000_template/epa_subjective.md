@@ -50,14 +50,10 @@ The physician listens intentionally and re-tells patient's story in a way that f
 ### FHx
 
 ### Other health-disturbing factors
-- Cultural
-- Environmental
-- Exercise/movement
-- Hygienic
-- Inborn
-- Nutrition & hydration
-- Relationship quality
-- Sleep and relaxation
-- Socioeconomic
-- Spirituality / connection to purpose
-- Stress management
+ {% include note.html content= 'Includes:'<br>- Hygienic Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn' %}
+- Environmental toxin exposures / toxic load 
+  - Known allergies / sensitivities
+
+
+ 
+ 
