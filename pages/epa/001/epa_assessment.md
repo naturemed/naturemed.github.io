@@ -2,14 +2,29 @@
 epa_id: 1
 folder: epa/001
 title: Well-Adult Female Examination (over 16 years old)
-keywords: templates
+keywords: 
 summary: 
 sidebar: soap_sidebar
 permalink: epa_assessment_1.html
 ---
 
-As primary care physicians, our role is to ensure the patient is up-to-date on all the age-appropriate screening exams needed. If there are no abnormals on examination or in the ROS, guidance on upcoming screening exams and counseling on safe health behaviors is our primary role.
+## Pathobiography
+{% include important.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process. This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
+   
+## Assess Conditions for Health
 
-Abnormals O/E or identified in ROS that are not urgent can be fully worked up and assessed at ROC. 
+### Health-promoting factors
+- Nutrition & digestion
+- Hydration
+- Exercise
+- Sleep
+- Meaningful work
+- Love & being loved
+- Natural light
+- Access to nature
+- Spiritual life
+- Stress management
 
-Well-adult exams suit naturopathic health care extremely well, as they are entirely preventive and require holistic history-taking, PE, and assessment.
+## Provide Naturopathic Dx
+
+### ICD Dx code & insurance considerations
