@@ -82,20 +82,40 @@ Not required for a wellness exam
     {% include rationale.html content= 'Intimacy' %}
 
 
-
-
-
+### RoS
+- Full ROS
+  - Current gynecological concerns - if abnormal
+- Emphasize LMP 
+- Ask pertinent follow-up questions
+- Abnormal but non-urgent O/E or identified in ROS can be fully worked up and assessed at ROC
 
 ### SHx
  {% include note.html content= 'Includes:<br>- Spirituality / connection to purpose<br> - Exercise /movement<br> - Quality of relationships<br> - Sleep and relaxation<br> - Stress management<br> - Nutrition' %}
+- Poor diet
+- Inadequate hydration
+- Inadequate sleep
+- Substance use
+  - Caffeine
+  - Alcohol
+  - Smoking/tobacco
+  - Recreational drugs
+- Digestion/toxemia
 
 
 ### FHx
+{% include note.html content= 'Full Hx if not recently assessed' %}
+- Genotype
+- Congenital issues
+- Intrauterine (prenatal)
+  - Maternal nutrition
+  - Maternal lifestyle 
+  - Maternal toxic exposures
+  - Maternal psycho-emotional health
+  - Maternal constitution
 
 ### Other health-disturbing factors
 {% include note.html content= 'Includes:<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn' %}
-- Environmental toxin exposures / toxic load 
-  - Known allergies / sensitivities
+NA
 
 
  
