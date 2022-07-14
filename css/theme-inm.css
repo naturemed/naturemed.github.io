@@ -135,3 +135,7 @@ li.sidebarTitle {
    top: 0;
    width: 100%;
 }
+
+ol, ul {
+    padding-inline-start: 13px;
+}
