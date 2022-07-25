@@ -40,5 +40,9 @@ entries:
     - title: Plan
       url: /epa_plan
       output: web, pdf
+      
+    - title: Evaluation Form
+      url: /assets/EPA%20Evaluation%20form.docx
+      output: web
 
 # Copyright 2021 Google LLC
