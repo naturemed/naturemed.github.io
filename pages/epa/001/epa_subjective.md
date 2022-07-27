@@ -28,7 +28,7 @@ permalink: epa_subjective_1.html
 NA
 
 ### Assess vital force, direction, pattern
-{% include note.html content= 'Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
+{% include definition.html content= 'Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
 
 - Comprehensive  chronology of patient health and experience of illness
   - Antecedents
@@ -44,7 +44,7 @@ Listens intentionally and retells patient’s story in a way that facilitates th
 
   
 ## Evaluate Healing Power & Processes (pathobiography)
-{% include important.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process. This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
+{% include definition.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process. This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
 
 ### HPI
 Not required for a wellness exam
