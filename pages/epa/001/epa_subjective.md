@@ -114,7 +114,7 @@ Not required for a wellness exam
   - Maternal constitution
 
 ### Other health-disturbing factors
-{% include note.html content= 'Includes:<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn' %}
+{% include callout.html content= 'Includes:<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn' type="info" %}
 NA
 
 
