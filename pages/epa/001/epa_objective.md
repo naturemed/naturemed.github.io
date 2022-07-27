@@ -9,7 +9,7 @@ permalink: epa_objective_1.html
 ---
 
 ## Evaluate functional systems
-{% include callout.html content= 'Includes:<br>- Overactivity<br>- Underactivity<br>- Burden<br>- Obstruction' type="info" %}
+{% include callout.html content= '**Includes:**<br>- Overactivity<br>- Underactivity<br>- Burden<br>- Obstruction' type="info" %}
   
 ### Vital signs and PE
 Comprehensive examination:
@@ -63,9 +63,7 @@ NA
     - Lipids
 
 #### Expected Competencies
-- Understands when imaging and labs are/are not appropriate to support differential dx and affect treatment plan 
-- Understands when imaging is /is not appropriate 
-- Avoids unnecessary tests and consequent financial burden on patient 
+{% include callout.html content="- Understands when imaging and labs are/are not appropriate to support differential dx and affect treatment plan<br>- Understands when imaging is /is not appropriate<br>- Avoids unnecessary tests and consequent financial burden on patient type="danger" %}
 
 
 ### DDx
