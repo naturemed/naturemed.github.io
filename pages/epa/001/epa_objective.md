@@ -63,7 +63,7 @@ NA
     - Lipids
 
 #### Expected Competencies
-{% include callout.html content="- Understands when imaging and labs are/are not appropriate to support differential dx and affect treatment plan<br>- Understands when imaging is /is not appropriate<br>- Avoids unnecessary tests and consequent financial burden on patient type="danger" %}
+{% include callout.html content="- Understands when imaging and labs are/are not appropriate to support differential dx and affect treatment plan<br>- Understands when imaging is /is not appropriate<br>- Avoids unnecessary tests and consequent financial burden on patient" type="danger" %}
 
 
 ### DDx
