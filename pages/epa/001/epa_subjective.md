@@ -85,7 +85,7 @@ Not required for a wellness exam
 - Abnormal but non-urgent O/E or identified in ROS can be fully worked up and assessed at ROC
 
 ### SHx
- {% include callout.html content= '**Includes:**<br>- Spirituality / connection to purpose<br> - Exercise /movement<br> - Quality of relationships<br> - Sleep and relaxation<br> - Stress management<br> - Nutrition' type="info" %}
+ {% include callout.html content= "**Includes:**<br>- Spirituality / connection to purpose<br> - Exercise /movement<br> - Quality of relationships<br> - Sleep and relaxation<br> - Stress management<br> - Nutrition" type="info" %}
 - Poor diet
 - Inadequate hydration
 - Inadequate sleep
@@ -109,7 +109,7 @@ Not required for a wellness exam
   - Maternal constitution
 
 ### Other health-disturbing factors
-{% include callout.html content= '**Includes:**<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn' type="info" %}
+{% include callout.html content= "**Includes:**<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn" type="info" %}
 NA
 
 
