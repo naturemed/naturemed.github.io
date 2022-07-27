@@ -136,6 +136,6 @@ li.sidebarTitle {
    width: 100%;
 }
 
-ol, ul {
+.post-content > ul {
     padding-inline-start: 13px;
 }
