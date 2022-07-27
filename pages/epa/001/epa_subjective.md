@@ -18,11 +18,8 @@ permalink: epa_subjective_1.html
   - Trans 101
     {% include rationale.html content= 'Patients may have different terms for their genitalia - ask!<br>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.' %}
 
-#### Expected Competencies
-  - Communication skills
-  - Professionalism 
-  - Collaboration (patient)
-  - Collaboration (interprofessional)
+{% include callout.html content= "**Expected Competencies:**<br>- Communication skills<br>- Professionalism<br>- Collaboration (patient)<br>- Collaboration (interprofessional)" type="danger" %}
+
   
 ### Outline patient goals collaboratively
 NA
@@ -44,7 +41,7 @@ Listens intentionally and retells patient’s story in a way that facilitates th
 
   
 ## Evaluate Healing Power & Processes (pathobiography)
-{% include definition.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process. This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
+{% include definition.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process.<br> This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
 
 ### HPI
 Not required for a wellness exam
