@@ -7,7 +7,7 @@ summary:
 sidebar: soap_sidebar
 permalink: epa_subjective_1.html
 ---
-
+## Subjective
 ## Identify Patient attributes
 
 ### Enquire about key patient identifiers & attribute

@@ -8,6 +8,7 @@ sidebar: soap_sidebar
 permalink: epa_plan_1.html
 ---
 
+## Plan
 ## Provide NM Treatment Protocol & Measurable Outcomes
 ### Explore patient‘s treatment goals & prioritize collaboratively
 {% include note.html content='To optimize adherence and nourish the therapeutic alliance.' %}
