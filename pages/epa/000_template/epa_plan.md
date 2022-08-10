@@ -8,7 +8,7 @@ sidebar: soap_sidebar
 permalink: epa_plan_0.html
 ---
 
-#### Plan
+## Plan
 ## Provide NM Treatment Protocol & Measurable Outcomes
 
 ### Explore patient‘s treatment goals & prioritize collaboratively
