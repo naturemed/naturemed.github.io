@@ -28,10 +28,7 @@ NA
 ### Assess vital force, direction, pattern
 {% include definition.html content= 'Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
 
-- Comprehensive  chronology of patient health and experience of illness
-  - Antecedents
-  - Triggers
-  - Mediators
+
   
 #### Expected Competencies
 {% include callout.html content= "Listens intentionally and retells patient’s story in a way that facilitates the therapeutic alliance. Approach to patient is:<br>- efficient<br>- professional<br>- compassionate" type="danger" %}
@@ -42,71 +39,23 @@ NA
 {% include definition.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process.<br> This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
 
 ### HPI
-Not required for a wellness exam
+
 
 ### PMHx
-- Pertinent past diagnoses
-  - History of vaccines and vaccine recommendations
-- Reproductive history
-  - Menarche
-  - Gravida, para, spontaneous abortions, elective abortions
-  - Vaginal versus Cesarean section
-  - Age at first PG
-  - PG or L&D complications
-  - *Birth control use / need*
-  - Pap history
-    - Most recent Pap
-    - HPV
-    - Dysplasia
-    - Treatments pursued for positive Paps (LEEP, etc.)
 
-- Sexual Hx
-  - Sexuality
-  - Current sexual activity
-  - Sex of partner/s
-  - Safety (STI protection, IV drug use, violence in relationship/s)
-  - Past sexual history
-  - History of sexually transmitted infections
-  - Sex of partner/s
-  - Age of first sexual activity, age of first partner
-  - Hx unprotected sex
-    {% include rationale.html content= 'By choice or by circumstance' %}
-  - Hx sexual difficulties
-    {% include rationale.html content= 'Libido and achievement of orgasm' %}
-  - Hx sexual, physical, emotional abuse
-    {% include rationale.html content= 'Intimacy' %}
 
 
 ### RoS
-- Full ROS
-  - Current gynecological concerns - if abnormal
-- Emphasize LMP 
-- Ask pertinent follow-up questions
-- Abnormal but non-urgent O/E or identified in ROS can be fully worked up and assessed at ROC
+
 
 ### SHx
  {% include callout.html content="**Includes:**<br>- Spirituality / connection to purpose<br> - Exercise /movement<br> - Quality of relationships<br> - Sleep and relaxation<br> - Stress management<br> - Nutrition" type="info" %}
-- Poor diet
-- Inadequate hydration
-- Inadequate sleep
-- Substance use
-  - Caffeine
-  - Alcohol
-  - Smoking/tobacco
-  - Recreational drugs
-- Digestion/toxemia
+
 
 
 ### FHx
 {% include note.html content= 'Full Hx if not recently assessed' %}
-- Genotype
-- Congenital issues
-- Intrauterine (prenatal)
-  - Maternal nutrition
-  - Maternal lifestyle 
-  - Maternal toxic exposures
-  - Maternal psycho-emotional health
-  - Maternal constitution
+
 
 ### Other health-disturbing factors
 {% include callout.html content="**Includes:**<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn" type="info" %}

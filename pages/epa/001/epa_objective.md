@@ -20,17 +20,7 @@ Comprehensive examination:
 NA
 
 ### Other relevant systems
-Disturbances/ imbalances in: 
-- Physiologic systems
-- Energetic systems
-- Organ systems
-- Cellular systems 
-<br>
-Including:
-- Overactivity
-- Underactivity
-- Burden
-- Obstruction
+{% include callout.html content= 'Disturbances/ imbalances in:<br>- Physiologic systems<br>- Energetic systems<br>- Organ systems<br>- Cellular systems' type="info" %}
 
 ## Evaluate structural obstacles to cure
 ### Musculoskeletal
