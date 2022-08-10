@@ -21,46 +21,28 @@ permalink: epa_subjective_0.html
 #### Expected Competencies
 {% include callout.html content= "- Communication skills<br>- Professionalism<br>- Collaboration (patient)<br>- Collaboration (interprofessional)" type="danger" %}
 
-  
 ### Outline patient goals collaboratively
-NA
 
 ### Assess vital force, direction, pattern
 {% include definition.html content= 'Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
 
-
-  
 #### Expected Competencies
 {% include callout.html content= "Listens intentionally and retells patient’s story in a way that facilitates the therapeutic alliance. Approach to patient is:<br>- efficient<br>- professional<br>- compassionate" type="danger" %}
-
-
   
 ## Evaluate Healing Power & Processes (pathobiography)
 {% include definition.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process.<br> This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
 
 ### HPI
 
-
 ### PMHx
 
-
-
 ### RoS
-
 
 ### SHx
  {% include callout.html content="**Includes:**<br>- Spirituality / connection to purpose<br> - Exercise /movement<br> - Quality of relationships<br> - Sleep and relaxation<br> - Stress management<br> - Nutrition" type="info" %}
 
-
-
 ### FHx
 {% include note.html content= 'Full Hx if not recently assessed' %}
 
-
 ### Other health-disturbing factors
 {% include callout.html content="**Includes:**<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn" type="info" %}
-NA
-
-
- 
- 
