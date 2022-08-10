@@ -1,11 +1,11 @@
 ---
-epa_id: 1
-folder: epa/001
-title: Well-Adult Female Examination (over 16 years old)
+epa_id: 0
+folder: epa/000_template
+title: Template
 keywords: 
 summary: 
 sidebar: soap_sidebar
-permalink: epa_assessment_1.html
+permalink: epa_assessment_0.html
 ---
 
 ## Assessment
