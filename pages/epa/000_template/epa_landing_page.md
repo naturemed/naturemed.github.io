@@ -11,5 +11,5 @@ toc: false
 
 ## Template
 <div class="iframe-container">
-  <iframe src="https://atlas.mindmup.com/fnmi22epa/naturopathic_medicine_epa/" allowfullscreen></iframe>
+  <iframe src="https://atlas.mindmup.com/fnmi22epa/fnmi_epa_template/index.html" allowfullscreen></iframe>
 </div>
