@@ -1,7 +1,7 @@
 ---
 epa_id: 4
 folder: epa/004
-title: Chronic pain
+title: 
 keywords: 
 summary: 
 sidebar: soap_sidebar

@@ -1,7 +1,7 @@
 ---
 epa_id: 2
 folder: epa/002
-title: Well-Adult Male Examination (over 16 years old)
+title: 
 keywords: 
 summary: 
 sidebar: soap_sidebar

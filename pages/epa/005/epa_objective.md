@@ -1,7 +1,7 @@
 ---
 epa_id: 5
 folder: epa/005
-title: Abnormal Vaginal Bleeding
+title:
 keywords: 
 summary: 
 sidebar: soap_sidebar

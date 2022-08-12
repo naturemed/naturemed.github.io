@@ -1,7 +1,7 @@
 ---
 epa_id: 1
 folder: epa/001
-title: Well-Adult Female Examination (over 16 years old)
+title: 
 keywords: 
 summary: 
 sidebar: soap_sidebar
