@@ -1,7 +1,7 @@
 ---
 epa_id: 0
 folder: epa/000_template
-title: Template
+title: 
 keywords: 
 summary: 
 sidebar: soap_sidebar
