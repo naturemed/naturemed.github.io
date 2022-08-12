@@ -4,12 +4,11 @@ keywords:
 tags: 
 sidebar: nmi_home_sidebar 
 permalink: index.html
-summary: homepage preview.
+summary: This is a WIP site for building and previewing Entrustable Professional Activities (EPA) for The Institute for Natural Medicine (INM).
 toc: false
 ---
 
 ## Welcome! 
-### This is a WIP site for building and previewing Entrustable Professional Activities (EPA) for The Institute for Natural Medicine (INM).
 
 The Institute for Natural Medicine is a non-profit 501(c)(3) organization, in collaboration with the [American Association of Naturopathic Physicians](https://naturopathic.org/). Our mission is to transform healthcare in America by increasing public awareness of naturopathic medicine and access to naturopathic doctors for patients.
 
