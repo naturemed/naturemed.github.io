@@ -39,9 +39,9 @@ permalink: epa_subjective_3.html
 
 ### PMHx
 - Obstetric history 
-  - # of pregnancies
-  - # of therapeutic and spontaneous abortions
-  - # of full-term deliveries (GPA)
+  - \# of pregnancies
+  - \# of therapeutic and spontaneous abortions
+  - \# of full-term deliveries (GPA)
 - Postpartum status (LMP)
 - Last menstrual period
 - Menorrhagia, dysmenorrhea, oligomenorrhea, or amenorrhea
