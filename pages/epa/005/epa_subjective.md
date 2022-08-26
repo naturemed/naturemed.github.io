@@ -5,7 +5,7 @@ title:
 keywords: 
 summary: 
 sidebar: soap_sidebar
-permalink: epa_subjective_0.html
+permalink: epa_subjective_5.html
 ---
 ## Subjective
 ## Identify Patient attributes
