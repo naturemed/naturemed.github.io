@@ -16,7 +16,7 @@ permalink: epa_subjective_0.html
 - Gender identity
   - Transgender, non-binary, genderqueer, and gender non-conforming 
   - Trans 101
-    {% include rationale.html content= 'Patients may have different terms for their genitalia - ask!<br>Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br>A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.' %}
+    {% include rationale.html content= 'Patients may have different terms for their genitalia - ask!<br><br>- Pronouns are important for charting and establishing patient trust. Pronouns reflect how we perceive someone’s gender.<br><br>- A transgender man probably was assigned female at birth and may have a vulva, uterus, cervix, ovaries, and breasts that must be examined, as for any cisgender female patient.' %}
 
 #### Expected Competencies
 {% include callout.html content= "- Communication skills<br>- Professionalism<br>- Collaboration (patient)<br>- Collaboration (interprofessional)" type="danger" %}
@@ -33,16 +33,23 @@ permalink: epa_subjective_0.html
 {% include definition.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process.<br> This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
 
 ### HPI
+ {% include callout.html content="<br>- Onset<br> - Location<br> - Quality of relationships<br> - Duration<br> - Characterization<br> - Alleviating & aggravating factors<br> - Radiation<br> - Temporal factors" type="info" %}
 
 ### PMHx
 
 ### RoS
 
 ### SHx
- {% include callout.html content="**Includes:**<br>- Spirituality / connection to purpose<br> - Exercise /movement<br> - Quality of relationships<br> - Sleep and relaxation<br> - Stress management<br> - Nutrition" type="info" %}
+ {% include callout.html content="<br>- Spirituality / connection to purpose<br> - Exercise /movement<br> - Quality of relationships<br> - Sleep and relaxation<br> - Stress management<br> - Nutrition" type="info" %}
 
 ### FHx
 {% include note.html content= 'Full Hx if not recently assessed' %}
 
-### Other health-disturbing factors
-{% include callout.html content="**Includes:**<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn" type="info" %}
+### DoH
+{% include callout.html content="<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn" type="info" %}
+- Health-disturbing factors
+  - Environmental toxin exposures / toxic load 
+  - Known allergies / sensitivities
+- Health-promoting factors
+
+{% include definition.html content= "**Dx** diagnosis; **FHx** family history; **HPI** history of present illness; **PE** physical examination; **PMHx** patient medical history; **ROS** review of symptoms; **SHx** social history; **Sx** symptoms" %}
