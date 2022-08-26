@@ -28,13 +28,10 @@ topnav_dropdowns:
           url: /epa_landing_page_0
         - title: Well-Adult Female Examination
           url: /epa_landing_page_1
-        - title: Well-Adult Male Examination
-          url: /epa_landing_page_2
         - title: Contraception Counseling
           url: /epa_landing_page_3
-        - title: Chronic pain (nonspecific)
-          url: /epa_landing_page_4
         - title: Abnormal Vaginal Bleeding
           url: /epa_landing_page_5
-
+        - title: Extreme fatigue
+          url: /epa_landing_page_9
 # Copyright 2021 Google LLC
