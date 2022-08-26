@@ -26,14 +26,15 @@ permalink: epa_subjective_0.html
 ### Assess vital force, direction, pattern
 {% include definition.html content= 'Vis medicatrix naturae: "an inherent self-healing process in people that is ordered and intelligent. Naturopathic physicians act to identify and remove obstacles to healing and recovery, and to facilitate and augment this inherent self-healing process." [AANP, 2022](https://naturopathic.org/page/PrinciplesNaturopathicMedicine?&hhsearchterms=%22vis+and+medicatrix+and+naturae%22))' %}
 
-#### Expected Competencies
-{% include callout.html content= "Listens intentionally and retells patient’s story in a way that facilitates the therapeutic alliance. Approach to patient is:<br>- efficient<br>- professional<br>- compassionate" type="danger" %}
   
 ## Evaluate Healing Power & Processes (pathobiography)
 {% include definition.html content= 'Pathobiography: an assessment of the intensity of illness vs. the healing process.<br> This includes, but is not limited to: history of present illness (HPI), past medical history (PMHx), family history (FHx), social history (SHx), psychospiritual history, dietary history, and  health history. Identify key turning points for the patient (e.g., “I’ve  not  been well since…”), along with potential toxic exposures; traumas; disturbances; and constitutional/inborn, strengths, weaknesses, and particularities.' %}
 
 ### HPI
- {% include callout.html content="<br>- Onset<br> - Location<br> - Quality of relationships<br> - Duration<br> - Characterization<br> - Alleviating & aggravating factors<br> - Radiation<br> - Temporal factors" type="info" %}
+ {% include callout.html content="<br>- Onset<br> - Location<br> - Quality of relationships<br> - Duration<br> - Characterization<br> - Alleviating & aggravating factors<br> - Radiation<br> - Temporal factors<br> - Severity (1-10 scale)" type="info" %}
+
+#### Expected Competencies
+{% include callout.html content= "Listens intentionally and retells patient’s story in a way that facilitates the therapeutic alliance. Approach to patient is:<br>- efficient<br>- professional<br>- compassionate" type="danger" %}
 
 ### PMHx
 
