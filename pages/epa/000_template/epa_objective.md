@@ -17,7 +17,7 @@ permalink: epa_objective_0.html
 {% include callout.html content="Cardiovascular<br>- Abdominal<br> - Dermatological<br> - Pelvic<br>- Respiratory<br>- HEENT" type="info" %}
 
 ### Other relevant systems
-{% include callout.html content= 'Disturbances/ imbalances in:<br>- Physiologic systems<br>- Energetic systems<br>- Organ systems<br>- Cellular systems<br><br>- Overactivity<br>- Underactivity<br>- Burden<br>- Obstruction' type="info" %}
+{% include callout.html content="Disturbances/ imbalances in:<br>- Physiologic systems<br>- Energetic systems<br>- Organ systems<br>- Cellular systems<br><br>- Overactivity<br>- Underactivity<br>- Burden<br>- Obstruction" type="info" %}
 
 ## Evaluate structural obstacles to cure
 
