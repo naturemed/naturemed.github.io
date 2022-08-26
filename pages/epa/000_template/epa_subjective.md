@@ -41,7 +41,6 @@ permalink: epa_subjective_0.html
  {% include callout.html content="<br>- Spirituality / connection to purpose<br> - Exercise /movement<br> - Quality of relationships<br> - Sleep and relaxation<br> - Stress management<br> - Nutrition" type="info" %}
 
 ### FHx
-{% include note.html content= 'Full Hx if not recently assessed' %}
 
 ### DoH
 {% include callout.html content="<br>- Hygienic<br>- Socioeconomic<br>- Environmental<br>- Spiritual<br>- Cultural<br>- Inborn" type="info" %}

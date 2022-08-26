@@ -83,7 +83,6 @@ permalink: epa_subjective_1.html
   - Digestion/toxemia
 
 ### FHx
-{% include note.html content= 'Full Hx if not recently assessed' %}
 - Full Hx if not recently assessed
 - Genotype
 - Congenital issues
