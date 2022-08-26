@@ -1,15 +1,15 @@
 ---
-epa_id: 0
-folder: epa/000_template
-title: Template
+epa_id: 5
+folder: epa/005
+title: Abnormal vaginal bleeding
 keywords: 
 summary: 
 sidebar: soap_sidebar
-permalink: epa_landing_page_0.html
+permalink: epa_landing_page_5.html
 toc: false
 ---
 
-## Template
+## Abnormal vaginal bleeding
 **summary missing**
 <br>
 **Map URL Missing**
