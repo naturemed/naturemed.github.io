@@ -9,7 +9,7 @@ permalink: epa_objective_0.html
 ---
 ## Objective
 ## Evaluate functional systems
-{% include callout.html content="<br>- Overactivity<br>- Underactivity<br>- Burden<br>- Obstruction" type="info" %}
+{% include callout.html content="- Overactivity<br>- Underactivity<br>- Burden<br>- Obstruction" type="info" %}
   
 ### Vital signs and PE
 

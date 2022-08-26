@@ -15,14 +15,14 @@ permalink: epa_plan_3.html
 - PARQ
   {% include rationale.html content= "To optimize adherence and nourish the therapeutic alliance." %}
 - Patient education
-  - Hormonal birth control options:
-    - Combined estrogen-progestin oral contraceptives (COCs)
-    - Progestin-only pill 
-    - Injection
-    - Implant
-    - Hormonal IUD
-    - Vaginal ring
-    - Patch
+  Hormonal birth control options:
+  - Combined estrogen-progestin oral contraceptives (COCs)
+  - Progestin-only pill 
+  - Injection
+  - Implant
+  - Hormonal IUD
+  - Vaginal ring
+  - Patch
 
 #### Expected Competencies
 {% include callout.html content= "Summarizes results both verbally and in writing with a personalized naturopathic treatment plan that employs the Naturopathic Medicine Therapeutic Order™ and explains the choices for both acute and long-term management.<br><br>Communicates clearly, empathically, professionally.<br><br>Ensures patient / caregiver understand diagnosis and treatment plan.<br><br>Communicates prognosis clearly, as well as realistic expectations for improvement.<br><br>Considers ethical responsibilities" type="danger" %}
