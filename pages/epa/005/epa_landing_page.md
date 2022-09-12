@@ -10,9 +10,7 @@ toc: false
 ---
 
 ## Abnormal vaginal bleeding
-**summary missing**
-<br>
-**Map URL Missing**
+
 <div class="iframe-container">
-  <iframe src="https://atlas.mindmup.com/fnmi22epa/fnmi_epa_template/index.html" allowfullscreen></iframe>
+  <iframe src="https://atlas.mindmup.com/fnmi22epa/abnormal_vaginal_bleeding/index.html" allowfullscreen></iframe>
 </div>

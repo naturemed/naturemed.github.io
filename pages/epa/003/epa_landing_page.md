@@ -11,9 +11,6 @@ toc: false
 
 ## Contraception counseling
 
-**summary missing**
-
-
 <div class="iframe-container">
   <iframe src="https://atlas.mindmup.com/fnmi22epa/contraception_counseling/index.html" allowfullscreen></iframe>
 </div>
