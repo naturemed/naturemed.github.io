@@ -9,7 +9,7 @@ permalink: epa_landing_page_7.html
 toc: false
 ---
 
-## Template
+## Managing patients who have a breast lump or discharge
 
 <div class="iframe-container">
   <iframe src="https://atlas.mindmup.com/fnmi22epa/breast_lump/index.html" allowfullscreen></iframe>

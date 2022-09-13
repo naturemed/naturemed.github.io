@@ -20,7 +20,13 @@ entries:
     - title: Abnormal Vaginal Bleeding
       url: /epa_landing_page_5
       output: web
+    - title: Managing patients who have a breast lump or discharge
+      url: /epa_landing_page_7
+      output: web
     - title: Extreme fatigue
       url: /epa_landing_page_9
+      output: web
+    - title: Menopause
+      url: /epa_landing_page_10
       output: web
 # Copyright 2021 Google LLC

@@ -22,16 +22,5 @@ topnav_dropdowns:
           external_url: http://idratherbewriting.com/category-jekyll/
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
-    - title: EPA List
-      folderitems:
-        - title: EPA Template
-          url: /epa_landing_page_0
-        - title: Well-Adult Female Examination
-          url: /epa_landing_page_1
-        - title: Contraception Counseling
-          url: /epa_landing_page_3
-        - title: Abnormal Vaginal Bleeding
-          url: /epa_landing_page_5
-        - title: Extreme fatigue
-          url: /epa_landing_page_9
+
 # Copyright 2021 Google LLC
